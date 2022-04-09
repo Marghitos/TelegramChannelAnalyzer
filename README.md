@@ -26,7 +26,7 @@ Before starting the application you need to configure the appsettings.json. Belo
  - Path: Set the path for the output file
  - Name: Set the name for the output file
 
-## Analyzing data with PowerBi
+## Analyzing data with Power BI
 Data obtained by this application can be parsed by the PowerBi report provided inside the same github repository. 
 
 In this case I analyzed this telegram channel, which reports news about the Ukraine - Russia war which broke on the 24th February 2022
