@@ -29,7 +29,7 @@ Before starting the application you need to configure the appsettings.json. Belo
 ## Analyzing data with PowerBi
 Data obtained by this application can be parsed by the PowerBi report provided inside the same github repository. 
 
-This telegram channel reports news about the Ukraine - Russia war which broke on the 24th February 2022
+In this case I analyzed this telegram channel, which reports news about the Ukraine - Russia war which broke on the 24th February 2022
 ![enter image description here](https://raw.githubusercontent.com/Marghitos/TelegramChannelAnalyzer/main/TelegramChannelRetriever/Images/TheKyivIndipendentLogo.png)
 ### Reaction count grouped by positive, negative and neutral by date
 ![enter image description here](https://raw.githubusercontent.com/Marghitos/TelegramChannelAnalyzer/main/TelegramChannelRetriever/Images/ReactionCount.png)
